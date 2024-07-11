@@ -93,9 +93,11 @@ Neovim is a fork of Vim, with a focus on modern features and performance. It is 
 
 ## [tmux](https://github.com/tmux/tmux/wiki)
 
+tmux is a terminal multiplexer that allows you to split your terminal window into multiple panes, each of which can be used to run a separate program in a shell. This makes it easy to run multiple programs side by side, and it allows you to switch between them easily.
+
 ### tmux Installation
 
-1. **Install tmux**: tmux is a terminal multiplexer that allows you to split your terminal window into multiple panes, each of which can be used to run a separate program in a shell. This makes it easy to run multiple programs side by side, and it allows you to switch between them easily.
+1. **Install tmux**:
 
     ```sh
     brew install tmux
