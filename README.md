@@ -36,32 +36,32 @@ Use your preferred package manager to install the packages listed in the install
 
 Zsh is a shell designed for interactive use, although it is also a powerful scripting language. Many of the useful features of bash, ksh, and tcsh were incorporated into zsh; many original features were added.
 
-1. **Install Zsh**: Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
+1. **Install Zsh**:
 
     ```sh
     brew install zsh
     ```
 
-2. **Install [`oh-my-zsh`](https://github.com/ohmyzsh/ohmyzsh)**:
+2. **Install [`oh-my-zsh`](https://github.com/ohmyzsh/ohmyzsh)**: oh-my-zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 
     ```sh
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     ```
 
-3. **Install Powerlevel10k**: Is a great theme for Zsh that adds a lot of useful features, such as a customizable prompt, a git-aware prompt, and a ton of other features.
+3. **Install [Powerlevel10k](https://github.com/romkatv/powerlevel10k)**: Is a great theme for Zsh that adds a lot of useful features, such as a customizable prompt, a git-aware prompt, and a ton of other features.
 
     ```sh
     git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
     ```
 
 4. **Install Plugins**:
-    - **Auto Suggestions**:
+    - **[Auto Suggestions](https://github.com/zsh-users/zsh-autosuggestions)**:
 
         ```sh
         git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
         ```
 
-    - **Syntax Highlighting**:
+    - **[Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)**:
 
         ```sh
         git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
