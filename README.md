@@ -32,9 +32,11 @@ Use your preferred package manager to install the packages listed in the install
 - [Contribution](#contribution)
 - [License](#license)
 
-## Zsh
+## [Zsh](https://zsh.sourceforge.io)
 
-1. **Install Zsh**:
+Zsh is a shell designed for interactive use, although it is also a powerful scripting language. Many of the useful features of bash, ksh, and tcsh were incorporated into zsh; many original features were added.
+
+1. **Install Zsh**: Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 
     ```sh
     brew install zsh
@@ -46,7 +48,7 @@ Use your preferred package manager to install the packages listed in the install
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     ```
 
-3. **Install Powerlevel10k**:
+3. **Install Powerlevel10k**: Is a great theme for Zsh that adds a lot of useful features, such as a customizable prompt, a git-aware prompt, and a ton of other features.
 
     ```sh
     git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
@@ -77,6 +79,8 @@ Use your preferred package manager to install the packages listed in the install
 
 ## [Neovim](https://neovim.io)
 
+Neovim is a fork of Vim, with a focus on modern features and performance. It is designed to be used as a text editor, but it also has a lot of other features, such as a GUI, a terminal, and a job control system.
+
 ### Neovim Installation
 
 1. **Install Neovim**:
@@ -91,7 +95,7 @@ Use your preferred package manager to install the packages listed in the install
 
 ### tmux Installation
 
-1. **Install tmux**:
+1. **Install tmux**: tmux is a terminal multiplexer that allows you to split your terminal window into multiple panes, each of which can be used to run a separate program in a shell. This makes it easy to run multiple programs side by side, and it allows you to switch between them easily.
 
     ```sh
     brew install tmux
@@ -102,6 +106,8 @@ Use your preferred package manager to install the packages listed in the install
 ## [iTerm2](https://iterm2.com/)
 
 ### iTerm2 Installation
+
+iTerm2 is a powerful terminal emulator for macOS that is designed to be used with the macOS Terminal application. It is highly customizable and has a lot of features, such as a tabbed interface, a split pane, and a lot of other things.
 
 1. **Download and install iTerm2** from [here](https://iterm2.com/downloads.html).
 
@@ -119,6 +125,8 @@ Configuration for `oh-my-zsh` is included in the Zsh section above. Please refer
 
 ### [fzf](https://github.com/junegunn/fzf)
 
+fzf is a command-line fuzzy finder. It is highly customizable and has a lot of features, such as a preview window, a multi-select mode, and a lot of other things.
+
 #### fzf Installation
 
 1. **Install fzf**:
@@ -135,6 +143,8 @@ Configuration for `oh-my-zsh` is included in the Zsh section above. Please refer
 
 ### [zoxide](https://github.com/ajeetdsouza/zoxide)
 
+zoxide is a command-line tool that allows you to easily navigate your filesystem.
+
 1. **Install zoxide**:
 
     ```sh
@@ -148,6 +158,8 @@ Configuration for `oh-my-zsh` is included in the Zsh section above. Please refer
     ```
 
 ### [Thefuck](https://github.com/nvbn/thefuck)
+
+thefuck is a command-line tool that helps you to correct your previous command.
 
 1. **Install thefuck**:
 
