@@ -200,6 +200,11 @@ thefuck is a command-line tool that helps you to correct your previous command.
 - [Postman](https://www.postman.com/): For API testing.
 - [Android Studio](https://developer.android.com/studio): For Android development.
 - [Xcode](https://developer.apple.com/xcode/): For iOS development.
+- [shotrr](shotrr.cc): Shottr is a tiny and fast mac screenshot tool with annotations, scrolling screenshots and cloud upload capabilities. Built with love and optimized for Apple silicon.
+[ImageOptim](https://imageoptim.com/): ImageOptim is a free, powerful, high-quality image optimizer for Mac.
+[Latest](https://max.codes/latest/): Latest is a free and open source app for macOS that checks if all your apps are up to date. Get a quick overview of which apps changed and what changed and update them right away.
+[AdGuard for Safari](https://apps.apple.com/us/app/adguard-for-safari/id1440147259?mt=12): AdGuard is a free and open source ad blocker for Safari, iOS and macOS.
+[]
 
 ### Browsers
 
@@ -210,6 +215,10 @@ thefuck is a command-line tool that helps you to correct your previous command.
 ### Other
 
 - [Rectangle Pro](https://rectangleapp.com/): A window management app for macOS.
+- [Velja](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/velja/id1607635845%3Fmt%3D12&ved=2ahUKEwjy_7KlzJ-HAxVSwskDHa_kB8MQFnoECBgQAQ&usg=AOvVaw2aCmBSs7FhQCaEAB2bbQtc): A tool for select broswer to launch links.
+- [Dropover](https://dropoverapp.com): An amazing clipboard
+- [Later](https://github.com/alyssaxuu/later?tab=readme-ov-file#installing-later): A productivity app for macOS that lets you save window sessions allowing for easy closing and re-opening of workspaces.
+- [Raycast Free Version](https://www.raycast.com/): A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable. AKA better Spotlight.
 
 ## Contribution
 
