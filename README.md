@@ -125,6 +125,22 @@ Configuration for `oh-my-zsh` is included in the Zsh section above. Please refer
 
 ## Additional Configurations
 
+## Enable Touch ID for sudo
+
+1. **Open the proper file**:
+
+    ```sh
+    sudo nano /etc/pam.d/sudo
+    ```
+
+2. **Add the following to the file**:
+
+    ```sh
+    auth sufficient pam_tid.so
+    ```
+
+3. **Save and Exit**: Press `Ctrl + X` (exit) and `Y` (save) to save the file. Then press `Enter` to exit.
+
 ### [fzf](https://github.com/junegunn/fzf)
 
 fzf is a command-line fuzzy finder. It is highly customizable and has a lot of features, such as a preview window, a multi-select mode, and a lot of other things.
