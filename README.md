@@ -196,7 +196,7 @@ thefuck is a command-line tool that helps you to correct your previous command.
 
 ### Developer Tools
 
-- [GitKraken](https://www.gitkraken.com/): A Git GUI, useful for complex Git workflows.
+- [GitKraken Free Version](https://www.gitkraken.com/): A Git GUI, useful for complex Git workflows.
 - [Postman](https://www.postman.com/): For API testing.
 - [Android Studio](https://developer.android.com/studio): For Android development.
 - [Xcode](https://developer.apple.com/xcode/): For iOS development.
